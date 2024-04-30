@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "anhnv",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "anhnv1",
+      "password": "123",
+      "role": "menter"
+    },
+    {
+      "id": "6bb3",
+      "role": "menter"
+    },
+    {
+      "id": "1f7b",
+      "name": "123",
+      "password": "123",
+      "role": "menter"
+    }
+  ]
+}
